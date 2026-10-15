@@ -1,0 +1,10 @@
+# Direct dependencies, pinned to the versions used for this project.
+# requirements-lock.txt also pins their dependencies for the verified environment.
+scikit-learn==1.9.1
+pandas==3.0.6
+joblib==1.6.0
+fastapi==0.143.1
+pydantic==2.14.1
+uvicorn==0.54.0
+pytest==9.1.1
+httpx2==2.13.1

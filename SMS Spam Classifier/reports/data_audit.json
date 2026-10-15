@@ -1,0 +1,50 @@
+{
+  "raw_rows": 5574,
+  "missing_values": {
+    "label": 0,
+    "message": 0
+  },
+  "blank_values_after_strip_including_missing": {
+    "label": 0,
+    "message": 0
+  },
+  "missing_or_blank_rows_removed": 0,
+  "raw_class_balance": {
+    "ham": {
+      "count": 4827,
+      "fraction": 0.8659849300322928
+    },
+    "spam": {
+      "count": 747,
+      "fraction": 0.1340150699677072
+    }
+  },
+  "valid_class_balance_before_deduplication": {
+    "ham": {
+      "count": 4827,
+      "fraction": 0.8659849300322928
+    },
+    "spam": {
+      "count": 747,
+      "fraction": 0.1340150699677072
+    }
+  },
+  "duplicate_message_groups": 289,
+  "duplicate_message_rows_beyond_first": 414,
+  "conflicting_message_groups": 0,
+  "conflicting_rows_excluded": 0,
+  "same_label_duplicate_rows_removed": 414,
+  "clean_rows": 5160,
+  "clean_class_balance": {
+    "ham": {
+      "count": 4518,
+      "fraction": 0.8755813953488372
+    },
+    "spam": {
+      "count": 642,
+      "fraction": 0.12441860465116279
+    }
+  },
+  "identity_rule": "Strip surrounding whitespace only; preserve case and internal text.",
+  "conflict_policy": "Exclude all rows for any message with both labels; flag in conflicts.csv."
+}

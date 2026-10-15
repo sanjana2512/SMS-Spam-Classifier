@@ -1,0 +1,9 @@
+{
+  "source_page": "https://archive.ics.uci.edu/dataset/228/sms+spam+collection",
+  "download_url": "https://archive.ics.uci.edu/static/public/228/sms+spam+collection.zip",
+  "citation": "Almeida, T. & Hidalgo, J. (2011). SMS Spam Collection. UCI. DOI: 10.24432/C5CC84.",
+  "license": "CC BY 4.0 (as stated on the UCI dataset page)",
+  "downloaded_at_utc": "2026-10-15T07:32:39.540918+00:00",
+  "archive_sha256": "1587ea43e58e82b14ff1f5425c88e17f8496bfcdb67a583dbff9eefaf9963ce3",
+  "dataset_sha256": "7d039a24a6083ed9ef0f806ebad56bbb976e3aeb8de05669173bfdc4996c239d"
+}
